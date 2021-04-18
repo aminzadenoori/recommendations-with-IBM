@@ -35,10 +35,10 @@ It contains 3 files:
 - articles_community.csv:  articles descriptive information 
 - user-item-interactions.csv: users interactions with articles 
 
-## Analysis Workflow  <a name="analysis"></a>
+## Workflow <a name="analysis"></a>
 
-#### Exploratory Data Analysis
-Before making recommendations of any kind, I explored the data to identify any missing values and data distribution. I cleaned and prepared the data for the analysis.
+#### Exploratory Data Analysis(EDA)
+Data cleaning, missing value imputation have been done in this part of this project.
 
 #### Rank Based Recommendations
 To get started in building recommendations, I first identified the most popular articles simply based on users interaction. Since there are no ratings for any of those articles, it made sense to assume that articles with the most interactions are the most popular. These are then the articles we might recommend to new users (or anyone depending on what we know about them).
