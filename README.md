@@ -6,11 +6,12 @@ In this project which is a part of Udacity nanodegree program,  four different r
 - Matrix Factorization. 
 
 ### Table of Contents
+1. [Motivation](#motivation)
+2. [Requirements](#libraries)
+3. [Files](#files)
+4. [Workflow](#analysis)
 
-1. [Requirements](#libraries)
-2. [Files](#files)
-3. [Workflow](#analysis)
-
+## Motivation <a name="motivation"></a>
 
 ## Packges  <a name="libraries"></a>
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
