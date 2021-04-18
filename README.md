@@ -12,7 +12,7 @@ In this project which is a part of Udacity nanodegree program,  four different r
 4. [Workflow](#analysis)
 
 ## Motivation <a name="motivation"></a>
-
+In this project differnet methods of recommendation with different senarios in a real data are stuieded.
 ## Packges  <a name="libraries"></a>
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
 
